@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+CURSO SPRING BOOT CRUD + JPA + POSTGRESQL +REST + ANGULAR (Yo Androide) : https://www.youtube.com/playlist?list=PLI4dAv2GvnrQ-aiqTCi4e_O3kEbEz-4DZ 
+Conectar frontend y backend HTTP y REST , Listar , crear, eliminar y editar/update
